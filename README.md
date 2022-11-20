@@ -1,5 +1,5 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Paula and my nickname is "paulaandrezza"!
+<h1 align="center">👋 Hello! Welcome to my Github profile.</h1>
+<h2 align="center">My name is Paula and my nickname is "paulaandrezza"!</h1>
 <br>
 <div align="center">
 - :mortar_board: I am engineering student looking for opportunities and collabaration in projects.
