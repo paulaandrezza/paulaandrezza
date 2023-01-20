@@ -26,9 +26,4 @@
 
   ##
 
-<div align="center">
-  <a href="https://github.com/paulaandrezza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulaandrezza&show_icons=true&theme=radical"/>
-</div>
-
 ![Snake animation](https://github.com/paulaandrezza/paulaandrezza/blob/output/github-contribution-grid-snake.svg)
