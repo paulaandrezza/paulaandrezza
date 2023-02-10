@@ -2,9 +2,9 @@
 <h2 align="center">My name is Paula and my nickname is "paulaandrezza"!</h1>
 <br>
 <div align="center">
-- :mortar_board: I am engineering student looking for opportunities and collabaration in projects.
+:mortar_board: I am a student looking for opportunities and collabaration in projects.
 <br>
-- 🌱 I’m currently learning web development (HTML | CSS | JavaScript)
+🌱 I’m currently learning web development.
 </div>
 
 <div align="center" style="display: inline_block"><br>
