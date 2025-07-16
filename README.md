@@ -1,6 +1,6 @@
 #
 
-<img width="4904" height="1580" alt="hero" src="https://github.com/user-attachments/assets/d8fd245d-b850-436d-9738-381500e9ca78" />
+<img width="4904" height="1580" alt="hero" src="https://github.com/user-attachments/assets/43b6e978-0bbb-4bd0-ae08-9b6cfca7656a" />
 
 
 ![](https://komarev.com/ghpvc/?username=paulaandrezza&style=for-the-badge&label=PROFILE+VIEWS)
