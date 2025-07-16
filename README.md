@@ -57,7 +57,3 @@ public class Paula
 ---
 
 ### **I'm available for innovative challenges and collaboration opportunities! Get in touch!**
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulaandrezza&show_icons=true&theme=radical&include_all_commits=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaandrezza&layout=compact&langs_count=7&theme=radical"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulaandrezza&theme=radical&hide_border=false">
