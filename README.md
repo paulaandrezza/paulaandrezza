@@ -1,7 +1,4 @@
-#
-
-<img width="4904" height="1580" alt="hero" src="https://github.com/user-attachments/assets/43b6e978-0bbb-4bd0-ae08-9b6cfca7656a" />
-
+<img width="4904" height="1580" alt="hero" src="https://github.com/user-attachments/assets/42db2485-2460-4d32-a6a3-825714fdc9ec" />
 
 ![](https://komarev.com/ghpvc/?username=paulaandrezza&style=for-the-badge&label=PROFILE+VIEWS)
 <a href="./cv/CV - Paula Marinho.pdf" target="_blank">
