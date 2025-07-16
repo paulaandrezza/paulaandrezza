@@ -1,61 +1,63 @@
-<h1 align="center">👋 Hello! Welcome to my Github profile.</h1>
-<h2 align="center">My name is Paula and my nickname is "paulaandrezza"!</h1>
-<br>
-<div align="center">
-:mortar_board: I am a student looking for opportunities and collabaration in projects.
-<br>
-🌱 I’m currently learning web development.
-</div>
+#
 
-<br>
-<div align="center" style="display: inline_block">
-Programming and Markup Languages
-</div>
-<div align="center" style="display: inline_block">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-</div>
+<img width="4904" height="1580" alt="hero" src="https://github.com/user-attachments/assets/ab22510b-e7be-4765-b8c0-bbdccd37dada" />
 
-<br>
-<div align="center" style="display: inline_block">
-Frameworks and libraries
-</div>
-<div align="center" style="display: inline_block">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="MUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
-  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-</div>
+![](https://komarev.com/ghpvc/?username=paulaandrezza&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="./cv/CV - Paula Marinho.pdf" target="_blank">
+<img src="https://img.shields.io/badge/-Download%20My%20Resume%20(pt_BR)-%23333?style=for-the-badge&logo=webb&logoColor=white" target="_blank" alt="Paula's Resume"></a>
+<a href="https://www.linkedin.com/in/paula-andrezza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Paula's Linkedin" target="_blank"></a>
+<a href="https://www.hackerrank.com/paulaandrezza25" target="_blank"><img src="https://img.shields.io/badge/-Hacker%20Rank-%eab676?style=for-the-badge&logo=hackerrank&logoColor=white"  alt="Paula's Hackerrank" target="_blank"></a>
+<a href="mailto:paulaandrezza25@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/-Email-800080?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email">
+</a>
 
-<br>
-<div align="center" style="display: inline_block">
-DataBase
-</div>
-<div align="center" style="display: inline_block">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-</div>
+```csharp
+public class Paula
+{
+    public const string Name = "Paula Andrezza Gomes Marinho";
+    public const string From = "Minas Gerais/BR";
+    public const string Role = "Backend Developer";
 
-<br>
-<div align="center"> 
-  <a href = "mailto:paulaandrezza25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paula-andrezza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+    public readonly List<string> Interests = new List<string>()
+    {
+        "Object-Oriented Programming",
+        "Clean Architecture",
+        "Microservices",
+        "Asynchronous Communication",
+        "Learning New Technologies"
+    };
+}
+```
 
-  ##
-  
- <div align="center">
-  <a href="https://github.com/paulaandrezza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulaandrezza&show_icons=true&theme=radical&include_all_commits=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaandrezza&layout=compact&langs_count=7&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulaandrezza&theme=radical&hide_border=false">
-</div>
+## 🎯 About Me
+
+💻 Backend Developer passionate about building robust, scalable, and well-structured solutions. I have a deep love for object-oriented programming, clean code, and solid architecture.
+
+🚀 I'm a fast learner, driven by challenges, and always looking to grow both technically and personally.
+
+🤝 I value teamwork, knowledge sharing, and truly believe that technology should be used to make a meaningful impact.
+
+🔍 I enjoy deeply understanding problems before proposing solutions — always with a focus on quality, performance, and maintainability.
+
+## 💻 Technical Skills - Key Competencies
+
+- **Languages & Frameworks**: `C#`, `.NET Core`, `ASP.NET`, `Java`, `Python` (`Django`), `TypeScript` (`React`), `JavaScript`
+- **Architecture & Design**: `Microservices`, `Clean Architecture`, `CQRS`, `DDD`
+- **Messaging & Async Communication**: `RabbitMQ`, `MassTransit`, `ActiveMQ`, `gRPC`
+- **Databases**: `PostgreSQL`, `MS SQL Server`, `MySQL`, `SQLite`, `MongoDB`
+- **Testing & Code Quality**: `Unit Testing` (`NUnit`), `TDD`
+- **Cloud & DevOps**: `Docker`, `Kubernetes`, `Argo CD`, `AWS` (`Cloud Foundations`), `Linux`
+- **Methodologies**: `Agile`, `SCRUM`
+
+## 🎓 Education
+
+- 📚 **Technology in Systems Analysis and Development** - IFSP (2022 - 2025)
+- 🏅 **AWS Academy Cloud Foundations** | AWS Academy (2025)
+
+---
+
+### **I'm available for innovative challenges and collaboration opportunities! Get in touch!**
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulaandrezza&show_icons=true&theme=radical&include_all_commits=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaandrezza&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulaandrezza&theme=radical&hide_border=false">
