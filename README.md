@@ -5,8 +5,9 @@
 <img src="https://img.shields.io/badge/-Download%20My%20Resume%20(pt_BR)-%23333?style=for-the-badge&logo=webb&logoColor=white" target="_blank" alt="Paula's Resume"></a>
 <a href="https://www.linkedin.com/in/paula-andrezza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Paula's Linkedin" target="_blank"></a>
 <a href="https://www.hackerrank.com/paulaandrezza25" target="_blank"><img src="https://img.shields.io/badge/-Hacker%20Rank-%eab676?style=for-the-badge&logo=hackerrank&logoColor=white"  alt="Paula's Hackerrank" target="_blank"></a>
+<a href='https://judge.beecrowd.com/pt/profile/265381' target="_blank"><img alt='' src='https://img.shields.io/badge/beecrowd-100000?style=for-the-badge&logo=&logoColor=white&labelColor=662483&color=662483'/></a>
 <a href="mailto:paulaandrezza25@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-Email-800080?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email">
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
 
 ```csharp
